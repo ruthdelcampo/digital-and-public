@@ -32,4 +32,4 @@ Ruth del Campo is a technologist and policy specialist focused on data governanc
 
 ## Contact
 
-[GitHub](https://github.com/ruthdelcampo) · [LinkedIn](https://linkedin.com/in/ruthdelcampo)
+[GitHub](https://github.com/ruthdelcampo) · [LinkedIn](https://www.linkedin.com/in/ruth-del-campo/)
