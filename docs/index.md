@@ -19,12 +19,12 @@ Governments are being reshaped by technology — sometimes well, often badly. Th
 
 Topics include:
 
-- **Digital government** — what Estonia got right, what Spain can learn, and what nobody is doing yet
-- **AI in public service** — from predictive services to agent-based systems, beyond the pilot phase
-- **Data regulation** — implementing the Data Act, GDPR conflicts, and legislation as code
-- **Public procurement reform** — the hidden bottleneck of digital transformation
-- **IT governance** — why the way governments organize their technology teams matters more than the technology itself
-- **Leadership** — building and leading teams that actually ship in the public sector
+- **Digital government**
+- **AI in public service**
+- **Data regulation**
+- **Public procurement reform**
+- **IT governance**
+- **Leadership**
 
 ## About
 
