@@ -9,7 +9,9 @@ title: Digital & Public
 ### [{{ post.title }}]({{ post.url | relative_url }})
 <small>{{ post.date | date: "%B %-d, %Y" }}{% if post.lang == "es" %} · Español{% endif %}</small>
 
-{{ post.excerpt }}
+{{ post.content | split: '</p>' | slice: 0, 2 | join: '</p>' }}</p>
+
+[Read more →]({{ post.url | relative_url }})
 
 ---
 {% endfor %}
