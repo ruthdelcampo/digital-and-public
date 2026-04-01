@@ -5,7 +5,7 @@ Blog post ideas, roughly ordered. Mix of Spanish and English depending on audien
 ## Ready / Near-ready
 
 1. **Legislation as Code: Can We Fix EU Data Law the Way We Fix Software?** (EN)
-   — Already published on the Observatory. Cross-post here as inaugural post.
+   — Previously drafted. Cross-post here.
 
 2. **Implementing the Data Act: A Compliance Checklist** (EN)
    — Practical checklist of initiatives organisations must launch to comply with the Data Act by September 2025. Actionable, not theoretical.

@@ -30,8 +30,6 @@ Topics include:
 
 Ruth del Campo is a technologist and policy specialist focused on data governance and digital transformation in the public sector. Previously Director of Data for the Government of Spain, she works at the intersection of regulation, technology, and institutional reform.
 
-She also maintains the [EU Data Law Observatory](https://ruthdelcampo.github.io/eu-data-law-observatory/), an open-source project tracking fragmentation and conflicts across EU data legislation.
-
 ## Contact
 
 [GitHub](https://github.com/ruthdelcampo) · [LinkedIn](https://linkedin.com/in/ruthdelcampo)
