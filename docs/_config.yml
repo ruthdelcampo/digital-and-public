@@ -3,6 +3,7 @@ description: Digital transformation, AI, public service, and policy
 url: "https://ruthdelcampo.github.io"
 baseurl: "/digital-and-public"
 author: Ruth del Campo
+google_analytics: G-NXWEZN1Q3W
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
