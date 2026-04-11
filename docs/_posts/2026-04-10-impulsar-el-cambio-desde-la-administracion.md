@@ -69,7 +69,7 @@ Cuestionar con mente limpia, pensar como product manager, y arremangarse cuando 
 
 ---
 
-📎 *[Presentación completa (PDF)]({{ site.baseurl }}/assets/Impulsar%20el%20cambio%20desde%20la%20Administraci%C3%B3n.pdf)*
+📎 *[Presentación completa (PDF)]({{ site.baseurl }}/assets/impulsar-cambio-administracion.pdf)*
 
 ---
 
