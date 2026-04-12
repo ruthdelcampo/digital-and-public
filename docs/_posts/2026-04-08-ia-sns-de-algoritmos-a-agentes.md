@@ -6,11 +6,11 @@ author: Ruth del Campo
 lang: es
 ---
 
-# La IA en el SNS: de algoritmos a skills, de skills a agentes
+# La IA en el SNS: de algoritmos a skills y agentes
 
 ---
 
-Estos días de vacaciones me han dado algo que últimamente escasea: tiempo para leer con calma. Entre las lecturas que tenía pendientes estaba la **[Estrategia de Inteligencia Artificial para el Sistema Nacional de Salud](https://www.sanidad.gob.es/areas/saludDigital/doc/eIASNS_v13.pdf)** (eIASNS), publicada por el Ministerio de Sanidad y aprobada por el Consejo Interterritorial del SNS en noviembre de 2025.
+Estos días de vacaciones he aprovechado para leer la **[Estrategia de Inteligencia Artificial para el Sistema Nacional de Salud](https://www.sanidad.gob.es/areas/saludDigital/doc/eIASNS_v13.pdf)** (eIASNS), publicada por el Ministerio de Sanidad y aprobada por el Consejo Interterritorial del SNS en noviembre de 2025.
 
 La leo con especial interés porque me apasiona la salud digital y me fascina como a muchísima gente cómo la IA va a revolucionar todos los procesos actuales, siendo la salud uno de los campos con mayor impacto. 
 
@@ -18,13 +18,13 @@ La leo con especial interés porque me apasiona la salud digital y me fascina co
 
 ## Una estrategia que parte de la realidad
 
-Me ha sorprendido positivamente la honestidad del diagnóstico de partida. Antes de proponer nada, el Ministerio y las comunidades autónomas han hecho los deberes: sesiones bilaterales con cada CCAA, cuestionarios técnicos y normativos a los servicios de salud y sus proveedores, análisis de licitaciones y proyectos. El resultado es un inventario de **155 algoritmos de IA** ya operativos en el SNS — 81 comerciales, 56 de desarrollo propio y 18 sin clasificar — con un desglose por especialidad clínica, fase del proceso asistencial y grado de madurez.
+El Ministerio y las comunidades autónomas han hecho los deberes: sesiones bilaterales con cada CCAA, cuestionarios técnicos y normativos a los servicios de salud y sus proveedores, análisis de licitaciones y proyectos. El resultado es un inventario de **155 algoritmos de IA** ya operativos en el SNS — 81 comerciales, 56 de desarrollo propio y 18 sin clasificar — con un desglose por especialidad clínica, fase del proceso asistencial y grado de madurez.
 
 Esa foto, imperfecta como toda primera instantánea, tiene valor: demuestra que la IA no es algo que "va a llegar" al SNS. Ya está aquí. De forma desigual, fragmentada, con diferencias notables entre comunidades autónomas, pero aquí.
 
 La estrategia se apoya en un **marco de gobernanza que ya existe y funciona**: la Comisión de Salud Digital del Consejo Interterritorial, el modelo de liderazgos compartidos de la Estrategia de Salud Digital, y las estructuras de coordinación entre el Ministerio y las CCAA que llevan operando desde 2021. 
 
-El **mapa del marco regulatorio** es una sección bastante útil donde se muestran los solapamientos, obligaciones cruzadas y niveles de riesgo entre las diferentes regulaciones europeas. 
+El **mapa del marco regulatorio** es una sección bastante útil donde se muestran los solapamientos, obligaciones cruzadas y niveles de riesgo entre las diferentes regulaciones europeas.
 
 Además, **la eIASNS es la primera estrategia sectorial de inteligencia artificial impulsada desde un ministerio para su ámbito competencial específico**. Existe la Estrategia Nacional de IA (la ENIA de 2020, actualizada en 2024), coordinada por SEDIA con carácter transversal. Pero ningún otro ministerio ha publicado una estrategia de IA adaptada a las particularidades de su sector.
 
@@ -44,7 +44,6 @@ La diferencia entre pensar en algoritmos y pensar en agentes tiene implicaciones
 
 ## Algoritmos, skills y agentes: tres conceptos que conviene separar
 
-En la conversación actual sobre IA estos tres conceptos se mezclan con frecuencia. Merece la pena definirlos:
 
 | | **Algoritmo** | **Skill** | **Agente** |
 |---|---|---|---|
@@ -58,9 +57,8 @@ En la práctica, un agente de apoyo clínico en una consulta de atención primar
 
 ---
 
-## Por qué el SNS necesita pensar en skills y agentes
+## Por qué el SNS necesita pensar más en skills y agentes que en algoritmos
 
-Esto no es una cuestión terminológica. Tiene consecuencias prácticas directas.
 
 **Los algoritmos necesitan data scientists en el destino.** Para desplegar un algoritmo de clasificación de imágenes en un hospital, necesitas un equipo técnico capaz de integrarlo con el PACS, validar su rendimiento con la población local, monitorizar la deriva del modelo y resolver incidencias. Eso limita el despliegue a los centros con capacidad técnica suficiente. El inventario de 155 algoritmos en todo el SNS — para un sistema que atiende a **48 millones de personas** — refleja esa limitación.
 
@@ -86,12 +84,12 @@ La infraestructura del **[Espacio Nacional de Datos de Salud](https://digital.go
 
 ## Un paso adelante
 
-La eIASNS es un ejercicio serio de planificación interterritorial en un ámbito que avanza a una velocidad que dificulta cualquier ejercicio estratégico. El Ministerio de Sanidad y las comunidades autónomas han conseguido algo que no es fácil: consensuar una visión común sobre cómo integrar la IA en un sistema sanitario descentralizado, con un presupuesto comprometido de 297 millones de euros y unos indicadores con hitos concretos.
+ El Ministerio de Sanidad y las comunidades autónomas han conseguido algo que no es fácil: consensuar una visión común sobre cómo integrar la IA en un sistema sanitario descentralizado, con un presupuesto comprometido de cientos de millones de euros e indicadores con hitos concretos.
 
-La próxima iteración de la estrategia — o quizá su primer plan de acción operativo — se beneficiaría de incorporar el concepto de agentes y skills como pilar del despliegue. No porque los algoritmos no tengan su lugar, sino porque los agentes permiten escalar la IA a los profesionales y pacientes del SNS de una forma que los algoritmos solos no pueden.
+La próxima iteración de la estrategia — o quizá su primer plan de acción operativo — se beneficiaría de incorporar el concepto de agentes y skills como pilar del despliegue. No porque los algoritmos no tengan su lugar, sino porque los agentes permiten escalar la IA a los profesionales y pacientes del SNS de una forma que los algoritmos solos no pueden. Es decir, el impacto en el SNS va a ser más directo y accionable.
 
-El SNS no va a ganar la carrera de los modelos de IA. Pero tiene algo que ninguna empresa tecnológica puede replicar: el conocimiento clínico colectivo de 17 servicios de salud que atienden a 48 millones de personas, y la legitimidad institucional para convertirlo en estándares.
+El SNS no va a ganar la carrera de los modelos de IA. Pero tiene algo muy valioso: el conocimiento clínico colectivo de 17 servicios de salud que atienden a 48 millones de personas, y la legitimidad institucional para convertirlo en estándares.
 
-De algoritmos a agentes. De conocimiento pasivo a conocimiento activable.
+De algoritmos a agentes. De conocimiento tecnológico a conocimiento activable.
 
 ---
