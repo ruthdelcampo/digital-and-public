@@ -64,7 +64,11 @@ Les pedí algo muy concreto: **que verbalicen lo que ven.** Que cuando detecten 
 
 ---
 
-📎 *[Presentación completa (PDF)]({{ site.baseurl }}/assets/impulsar-cambio-administracion.pdf)*
+### Presentación completa
+
+<iframe src="{{ site.baseurl }}/assets/impulsar-cambio-administracion.pdf" width="100%" height="500px" style="border: 1px solid #e2e8f0; border-radius: 4px;"></iframe>
+
+📎 *[Descargar PDF]({{ site.baseurl }}/assets/impulsar-cambio-administracion.pdf)*
 
 ---
 
