@@ -14,24 +14,9 @@ Esta semana inauguré el curso selectivo de los nuevos funcionarios TIC de la AG
 
 Les conté cómo se construye una Dirección General desde cero, cómo se rescata un proyecto que todo el mundo da por muerto, y por qué las carreras más interesantes rara vez son lineales. Pero lo que más me importaba transmitir eran tres ideas que, después de casi 20 años en la Administración, considero fundamentales para cualquiera que quiera impulsar cambio real desde dentro.
 
-La nueva promoción de TICs es diversa: una gran mayoría viene con años de experiencia en el sector privado, la media de edad ronda los 40-50, con bagaje profesional de sobra. No son juniors. Son profesionales que han decidido dar el salto a lo público.
-
-
----
-
-## Vuestra mente limpia es vuestro mayor activo
-
-Y eso es exactamente lo que necesita la Administración.
-
-Porque cuando llegas nuevo, ves cosas que los que llevan años dentro ya no ven. Procesos que no tienen sentido. Formas de gestión anticuadas. Inercias que nadie cuestiona porque "en la Administración es así". Ese momento — las primeras semanas, los primeros meses — es cuando más capacidad se tiene de detectar lo que no funciona. 
-
-Les pedí algo muy concreto: **que verbalicen lo que ven.** Que cuando detecten algo que se puede mejorar, lo digan, lo propongan, busquen cambiarlo. Es algo que yo siempre pregunto al nuevo personal cuando lleva 1-2 meses en el equipo: "¿qué has visto que no tenga sentido?" Su opinión casi siempre es correcta. Algunas cosas las he podido cambiar, otras eran demasiado difíciles y no dependían de mí. Pero la visión de quien tiene la mente limpia es un activo que caduca rápido. Hay que aprovecharlo.
-
 ---
 
 ## Sed product managers, no jefes de proyecto
-
-Esta es quizás la idea que más me importa.
 
 Las subdirecciones TIC son el departamento tecnológico más relevante de cada ministerio. Muchos funcionarios TIC acabarán liderando la tecnología de áreas de negocio enteras. Y ahí hay una trampa interesante: pensar demasiado desde la tecnología.
 
@@ -61,11 +46,21 @@ La clave es que no se trata de microgestionar. Se trata de tener buen juicio y e
 
 ---
 
+## Vuestra mente limpia es vuestro mayor activo
+
+La nueva promoción de TICs es diversa: una gran mayoría viene con años de experiencia en el sector privado, la media de edad ronda los 40-50, con bagaje profesional de sobra. No son juniors. Son profesionales que han decidido dar el salto a lo público.
+
+Y eso es exactamente lo que necesita la Administración.
+
+Porque cuando llegas nuevo, ves cosas que los que llevan años dentro ya no ven. Procesos que no tienen sentido. Formas de gestión anticuadas. Inercias que nadie cuestiona porque "en la Administración es así". Ese momento — las primeras semanas, los primeros meses — es cuando más capacidad se tiene de detectar lo que no funciona. 
+
+Les pedí algo muy concreto: **que verbalicen lo que ven.** Que cuando detecten algo que se puede mejorar, lo digan, lo propongan, busquen cambiarlo. Es algo que yo siempre pregunto al nuevo personal cuando lleva 1-2 meses en el equipo: "¿qué has visto que no tenga sentido?" Su opinión casi siempre es correcta. Algunas cosas las he podido cambiar, otras eran demasiado difíciles y no dependían de mí. Pero la visión de quien tiene la mente limpia es un activo que caduca rápido. Hay que aprovecharlo.
+
+---
+
 ## El sistema no cambia solo
 
-Cuestionar con mente limpia, pensar como product manager, y arremangarse cuando toca. No son solo consejos para nuevos funcionarios. Son lo que he visto funcionar, una y otra vez, en las personas que realmente consiguen mover las cosas en la Administración.
-
-**El sistema no cambia solo. Lo cambian personas que deciden que las cosas se pueden hacer mejor.** Espero que esta nueva promoción de TICs sea parte de ese cambio.
+**En definitiva, la administración no va a cambiar sola y la inercia es fuerte. Pero un grupo de personas pequeño con ganas y criterio puede hacer cosas muy grandes. ** Espero que esta nueva promoción de TICs sea parte de ese cambio.
 
 ---
 
