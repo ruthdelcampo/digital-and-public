@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Del BOE al servicio público: el coste invisible de implementar una norma"
-date: 2026-09-04
+date: 2026-09-03
 author: Ruth del Campo
 lang: es
 ---
