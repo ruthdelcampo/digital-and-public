@@ -10,7 +10,7 @@ lang: es
 
 ---
 
-**Doce días.** Ese es el plazo entre la aprobación del plan de choque para Ceuta por el Consejo de Ministros y la puesta en marcha de la solicitud en línea de las ayudas directas.
+Doce días. Ese es el plazo entre la aprobación del plan de choque para Ceuta por el Consejo de Ministros y la puesta en marcha de la solicitud en línea de las ayudas directas.
 
 La norma contempla nuevas exenciones y bonificaciones en las cuotas de empresas y autónomos, una prestación extraordinaria por cese de actividad y aplazamientos con un interés reducido.
 
