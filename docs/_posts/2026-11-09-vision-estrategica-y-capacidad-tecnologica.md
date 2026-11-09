@@ -26,7 +26,7 @@ En la Administración pública, la contratación externa es necesaria, pero en a
 
 Jennifer Pahlka describe en [*Recoding America*](https://www.recodingamerica.us/) una evolución parecida en la Administración federal de Estados Unidos. La tecnología pasó a tratarse como una actividad que podía adquirirse mediante contratos, separada del diseño de las políticas, y muchos empleados públicos dejaron de construir para dedicarse a especificar y supervisar. Una organización que ya no ejecuta pierde parte del conocimiento necesario para definir bien lo que compra.
 
-Los datos públicos más recientes que he encontrado son los del [informe de Presupuestos TIC 2025](https://administracionelectronica.gob.es) de la Agencia Estatal de Administración Digital. He reunido sus cifras por ministerio en un [panel interactivo](https://claude.ai/artifact/9JdCqfrX4Lh2pffNsXt7ec) para quien quiera consultarlas con más detalle.
+Los datos públicos más recientes que he encontrado son los del [informe de Presupuestos TIC 2025](https://administracionelectronica.gob.es) de la Agencia Estatal de Administración Digital. He reunido sus cifras por ministerio en un [panel interactivo](https://claude.ai/artifact/5rygrTK5bo54LTg2xiJWSr) para quien quiera consultarlas con más detalle.
 
 De un presupuesto TIC de 3.097 millones de euros en el sector público estatal, el gasto en personal propio asciende a 369 millones, en torno al 12 %. El resto corresponde a gastos en bienes y servicios e inversiones (88 %). La cifra de personal se calcula a partir de las RPT, por lo que el peso efectivo del personal propio sería todavía menor.
 
